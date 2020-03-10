@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112732847425",
+    "firebase_url": "https://mytestproject2-32199.firebaseio.com",
+    "project_id": "mytestproject2-32199",
+    "storage_bucket": "mytestproject2-32199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112732847425:android:1d0087458696e83f4ab5c0",
+        "android_client_info": {
+          "package_name": "com.b2.bipul.firebasemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112732847425-t78f6oaaa71lj0g7mr6434krsh9i8thg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM3aU7Oh8_vB4VmOCF6WGd7uHqnv8lQ8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112732847425-t78f6oaaa71lj0g7mr6434krsh9i8thg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
